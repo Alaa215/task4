@@ -1,0 +1,68 @@
+h3{
+    color: brown;
+}
+table, th, td {
+    border: 1px solid;
+  }
+  .sity{
+    background-color: brown;
+  }
+  .center{
+    margin: auto;
+    display: block;
+padding: top center;
+    width: 50%;
+  }
+ .one {
+margin: 15px;
+padding: 5px;
+
+  }
+
+      
+  #offers {
+    height: 80vh;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  
+  
+  #offers .title p {
+    color: #fff;
+    font-weight: 500;
+  }
+  
+  #offers .offers-items {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+  }
+  
+  #offers .offers-items img {
+    width: 200px;
+  }
+  
+  #offers .offers-items h3 {
+    font-size: 25px;
+
+    margin: 15px 0;
+  }
+  
+  #offers .offers-items p {
+
+    font-size: 14px;
+    padding: 0 20px;
+    font-weight: 300;
+    margin-bottom: 15px;
+  }
+  
+  #offers .offers-items span {
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 5px;
+  }
+  
